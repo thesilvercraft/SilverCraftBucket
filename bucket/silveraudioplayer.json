@@ -7,8 +7,9 @@
     "bin":  "SilverAudioPlayer.Avalonia.exe",
     "shortcuts": [
         [
-            "SilverAudioPlayer",
-            "SilverAudioPlayer.Avalonia.exe"
+            "SilverAudioPlayer.Avalonia.exe",
+            "SilverAudioPlayer"
+            
         ]
     ]
 }
