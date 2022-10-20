@@ -7,7 +7,8 @@
     "bin":  "CharNfoForms.exe",
     "shortcuts": [
         [
-            "CharNfoForms.exe"
+            "CharNfoForms.exe",
+            "CharNfo"
         ]
     ]
 }
