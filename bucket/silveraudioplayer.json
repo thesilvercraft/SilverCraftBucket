@@ -1,9 +1,9 @@
 {
     "version":  "4.2.0",
     "license":  "GPL3.0",
-    "url":  "https://github.com/thesilvercraft/SilverAudioPlayer/releases/download/4.2.0/SAP.Avalonia.Win64R2R.4.2.0.7z",
+    "url":  "https://github.com/thesilvercraft/SilverAudioPlayer/releases/download/4.2.1/4.2.1-windows.7z",
     "homepage":  "https://github.com/thesilvercraft/SilverAudioPlayer",
-    "hash":  "C5BC5007FDDA78FD5D202573BAE4CC1959E7E4E660249841F067115C4A25C655",
+    "hash":  "C2E05EA1A1D3025E2BE97F9D03BA92046A8F5711CE91569EE8777E77E3937552",
     "bin":  "SilverAudioPlayer.Avalonia.exe",
     "shortcuts": [
         [
