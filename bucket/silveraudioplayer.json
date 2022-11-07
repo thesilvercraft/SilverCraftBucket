@@ -1,10 +1,14 @@
 {
-    "version":  "4.2.1",
+    "version":  "4.3.1",
     "license":  "GPL3.0",
-    "url":  "https://github.com/thesilvercraft/SilverAudioPlayer/releases/download/4.2.1/4.2.1-windows.7z",
+    "url":  "https://github.com/thesilvercraft/SilverAudioPlayer/releases/download/4.3.1/publish.7z",
     "homepage":  "https://github.com/thesilvercraft/SilverAudioPlayer",
-    "hash":  "C2E05EA1A1D3025E2BE97F9D03BA92046A8F5711CE91569EE8777E77E3937552",
+    "hash":  "7CFB3E69119141D4128CF0CA547501B469D3ED9BE0B8EFC1781DEEF8064DA0EC",
     "bin":  "SilverAudioPlayer.Avalonia.exe",
+    "persist": [
+          "Configs",
+          "SilverAudioPlayer.Config.xml"
+    ],
     "shortcuts": [
         [
             "SilverAudioPlayer.Avalonia.exe",
