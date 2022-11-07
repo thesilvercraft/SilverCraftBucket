@@ -6,8 +6,7 @@
     "hash":  "7CFB3E69119141D4128CF0CA547501B469D3ED9BE0B8EFC1781DEEF8064DA0EC",
     "bin":  "SilverAudioPlayer.Avalonia.exe",
     "persist": [
-          "Configs",
-          "SilverAudioPlayer.Config.xml"
+          "Configs"
     ],
     "shortcuts": [
         [
