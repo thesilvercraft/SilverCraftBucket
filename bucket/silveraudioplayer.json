@@ -1,9 +1,9 @@
 {
-    "version":  "4.3.1",
+    "version":  "4.3.2",
     "license":  "GPL3.0",
-    "url":  "https://github.com/thesilvercraft/SilverAudioPlayer/releases/download/4.3.1/publish.7z",
+    "url":  "https://github.com/thesilvercraft/SilverAudioPlayer/releases/download/4.3.2/publish.7z",
     "homepage":  "https://github.com/thesilvercraft/SilverAudioPlayer",
-    "hash":  "7CFB3E69119141D4128CF0CA547501B469D3ED9BE0B8EFC1781DEEF8064DA0EC",
+    "hash":  "95091932F4EFFB55EFF7641FF6B70CD49A47F1BC1F6FA540A5C7C3C815E70BD1",
     "bin":  "SilverAudioPlayer.Avalonia.exe",
     "persist": [
           "Configs"
